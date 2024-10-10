@@ -33,3 +33,7 @@ https://youtu.be/DQKbzidhL1U?si=Uu6inZ0LXHxwcEfZ bu linke tıklayarak tasarımı
 
 ## Proje Altyapısı
 https://youtu.be/c4CgCFdUP3k?si=2XPEnskq2QCUBJOC bu linke tıklayarak altyapıyı görebilirsiniz.
+
+<img src="https://github.com/oguzhanmollamehmetoglu/HesapApp/blob/master/Hesap%20App%20Foto/anasayfa.png"/>
+<img src="https://github.com/oguzhanmollamehmetoglu/HesapApp/blob/master/Hesap%20App%20Foto/menü.png"/>
+<img src="https://github.com/oguzhanmollamehmetoglu/HesapApp/blob/master/Hesap%20App%20Foto/hesapmakinesi.png"/>
